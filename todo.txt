@@ -1,0 +1,5 @@
+retexture clicks core
+get icon for all cores (except Bill & Merced)
+add sounds to Curry core
+add sounds to Kira core
+add sounds to clicks core

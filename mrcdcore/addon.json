@@ -1,0 +1,11 @@
+{
+	"title"		:	"PlatinumCurls Personality Core",
+	"type"		:	"Model",
+	"tags"		:	[ "comic", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

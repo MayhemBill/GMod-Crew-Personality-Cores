@@ -1,0 +1,11 @@
+{
+	"title"		:	"GHOSTFREAK Personality Core",
+	"type"		:	"Model",
+	"tags"		:	[ "comic", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
